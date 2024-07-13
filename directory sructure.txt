@@ -1,0 +1,12 @@
+iot-security-toolkit/
+│
+├── toolkit/
+│   ├── __init__.py
+│   ├── scanning.py
+│   ├── vulnerability_assessment.py
+│   └── exploitation.py
+│
+├── main.py
+├── requirements.txt
+└── README.md
+
